@@ -1,3 +1,7 @@
+Please do not remove all licences/copyright in the file ! 
+You are not permitted for this, thanks to respect the authors.
+
+
 # infinity_bountyhunts
 This is my first script and share in github.
 
@@ -98,6 +102,7 @@ Config.Items = {
 # Owner and scripting
 - [Shepard#1395] - https://github.com/ShepXBFR - https://discord.gg/mkTztth
 - Warmenu : https://github.com/warxander
+- REDMRP Mode authors and contributors <3
 
 
 # Thanks 
