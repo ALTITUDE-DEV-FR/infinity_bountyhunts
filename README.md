@@ -18,10 +18,10 @@ Optimised script 0.3ms
 https://www.youtube.com/watch?v=FaDqPrvUzZk
 
 # Version
-Alpha 1.0
+Alpha 1.1
 
 # Bugs
-- Mission cancel, the next spawn outlaw is instant finish, i work for this ;)
+- Fixed in 1.1
 
 # Installation
 1. Clone this repository.
