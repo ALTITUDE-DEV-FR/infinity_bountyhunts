@@ -1,4 +1,4 @@
-# Futures Versions and Others scripts by me: 
+# Futures Versions and Others scripts by me
 The Version is now not updated in Github because the users is Thieves scripts and resale.
 The new version is now in GUMROAD and licence file is attributed : https://gumroad.com/altitudedev#KAFVS
 Thanks for support creators <3
