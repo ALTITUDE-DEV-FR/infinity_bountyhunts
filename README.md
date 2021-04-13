@@ -25,7 +25,7 @@ Optimised script 0.3ms
 https://www.youtube.com/watch?v=FaDqPrvUzZk
 
 # Version
-Alpha 1.1
+Alpha 1.1 (the next version is in : https://gumroad.com/altitudedev#KAFVS )
 
 # Bugs
 - Fixed in 1.1
