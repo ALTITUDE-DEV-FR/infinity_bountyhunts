@@ -1,3 +1,6 @@
+The Version is now not updated in Github because the users is Thieves scripts and resale.
+The new version is now in GUMROAD and licence file is attributed : https://gumroad.com/altitudedev#KAFVS
+
 Please do not remove all licences/copyright in the file ! 
 You are not permitted for this, thanks to respect the authors.
 
