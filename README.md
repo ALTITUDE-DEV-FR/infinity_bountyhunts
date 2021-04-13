@@ -3,6 +3,13 @@ The Version is now not updated in Github because the users is Thieves scripts an
 The new version is now in GUMROAD and licence file is attributed : https://gumroad.com/altitudedev#KAFVS
 Thanks for support creators <3
 
+
+# For the respect of the owners scriptings and support
+Free/Paid Discord Scripts originals author's : https://discord.gg/nuWnbMtxbA
+
+
+---- Free version
+
 Please do not remove all licences/copyright in the file ! 
 You are not permitted for this, thanks to respect the authors.
 
