@@ -1,6 +1,6 @@
 # Futures Versions and Others scripts by me
 The Version is now not updated in Github because the users is Thieves scripts and resale.
-The new version is now in GUMROAD and licence file is attributed : https://gumroad.com/altitudedev#KAFVS
+The new version is now in GUMROAD and licence file is attributed : https://altitude-dev.tebex.io/
 Thanks for support creators <3
 
 
@@ -34,7 +34,7 @@ Optimised script 0.3ms
 https://www.youtube.com/watch?v=FaDqPrvUzZk
 
 # Version
-Alpha 1.1 (the next version is in : https://gumroad.com/altitudedev#KAFVS )
+Alpha 1.1 (the next version is in : https://altitude-dev.tebex.io/ )
 
 # Bugs
 - Fixed in 1.1
